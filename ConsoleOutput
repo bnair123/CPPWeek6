@@ -1,0 +1,6 @@
+Alice and Bob and Bob friends.!
+Alice
+Bob and Bob friends.!
+Elice and Bob and Bob friends.?
+
+ g++ main.cpp string.cpp -Wall -Wextra -pedantic -std=c++20 -o main.a
